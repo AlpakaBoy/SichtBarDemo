@@ -1,7 +1,7 @@
 // src/App.tsx
 
 import React from 'react';
-import Section from 'components/section.tsx';
+import Section from 'section';
 
 const App: React.FC = () => {
   const handleButtonClick = () => {
