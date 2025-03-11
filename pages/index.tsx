@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { generatePostIdea } from "../lib/generatePost";
+import { generatePostIdea } from ".generatePost";
 
 export default function Home() {
   const [idea, setIdea] = useState("");
